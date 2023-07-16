@@ -1,1 +1,1 @@
-# GUI_App
+# GUI_App_Individual_Project
